@@ -1,0 +1,15 @@
+#root > div.container {
+    margin-top: 50px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+nav > ul > li {
+    display: inline;
+    margin-left: 5px;
+    padding: 5px;
+    border-right: #9da0a4 1px solid;
+}
